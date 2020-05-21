@@ -11,14 +11,14 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/be-the-hero">
 	
   <a href="https://www.linkedin.com/in/tgmarinho/">
-    <img alt="Made by Thiago Marinho" src="https://img.shields.io/badge/made%20by-tgmarinho-%2304D361">
+    <img alt="Made by Ailton Oliveira" src="https://img.shields.io/badge/made%20by-tgmarinho-%2304D361">
   </a>
 
-  <a href="https://github.com/tgmarinho/be-the-hero/commits/master">
+  <a href="https://github.com/engailtonoliveira/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/be-the-hero">
   </a>
 
-  <a href="https://github.com/tgmarinho/be-the-hero/issues">
+  <a href="https://github.com/engailtonoliveira/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/tgmarinho/be-the-hero">
   </a>
 <a aria-label="Completed" href="https://rocketseat.com.br/week-10/aulas#4">
@@ -72,7 +72,7 @@ Seguem os links:
 - [API Backend](https://be-the-super-hero.herokuapp.com/ongs)
 - [Frontend](https://be-the-super-hero.netlify.com/)
 - [App Google Play](https://play.google.com/store/apps/details?id=com.bethesuperhero)
-- [Código](https://github.com/tgmarinho/be-the-hero)
+- [Código](https://github.com/engailtonoliveira/be-the-hero)
 
 #api #nodejs #backend #frontend #react #reactnative #appdeveloper #googleplay  #heroku #netlify #rocketseat #omnistack #gostack #developer
 
@@ -83,4 +83,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Thiago Marinho :wave: [Get in touch!](https://www.linkedin.com/in/tgmarinho/)
+Made with ♥ by Ailton Oliveira :wave: [Get in touch!](https://www.linkedin.com/in/ailton-oliveira-127366126/)
