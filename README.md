@@ -27,12 +27,6 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=be-the-hero&uri=https%3A%2F%2Fraw.githubusercontent.com%tgmarinho%2Fbe-the-hero%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-<p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4a5d7bd5-e287-4bac-9be4-c8fca29db33c/deploy-status)](https://app.netlify.com/sites/be-the-super-hero/deploys)
-</p>
-<p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
