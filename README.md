@@ -10,8 +10,8 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/be-the-hero">
 	
-  <a href="https://www.linkedin.com/in/tgmarinho/">
-    <img alt="Made by Ailton Oliveira" src="https://img.shields.io/badge/made%20by-tgmarinho-%2304D361">
+  <a href="https://www.linkedin.com/in/ailton-oliveira-127366126/">
+    <img alt="Made by Ailton Oliveira" src="https://img.shields.io/badge/made%20by-engailtonoliveira-%2304D361">
   </a>
 
   <a href="https://github.com/engailtonoliveira/be-the-hero/commits/master">
