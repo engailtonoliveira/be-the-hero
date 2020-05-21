@@ -64,6 +64,28 @@ Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C
 
 After merging your receipt request to done, you can delete a branch from yours.
 
+## Instalação 
+
+Para executar esse repositório baixe-o para sua maquina ou de um `Git Clone`
+
+### Backend 
+
+- abra a pasta `backend/` na Shell (No windows Power Shell em modo administrador). 
+- `$ npm install` esse comando ira instalar todos os módulos necessários ao Node.JS
+-  `$ npm start` Ira iniciar o servidor backend na `localhost:3333\` 
+
+### Frontend | Web
+
+- abra a pasta `frontend/` na Shell (No windows Power Shell em modo administrador). 
+- `$ npm install` esse comando ira instalar todos os módulos necessários ao React
+-  `$ npm start` Ira iniciar o servidor Frontend na `localhost:3000\` 
+
+### Mobile 
+
+- abra a pasta `mobile/` na Shell (No windows Power Shell em modo administrador). 
+- `$ npm install` esse comando ira instalar todos os módulos necessários ao React Native
+-  `$ npm start` Ira iniciar o servidor  de desenvolvimento do Expo 
+
 ## &#127873; Marketing
 
 Acompanhei a Semana Omnistack 11 da Rocketseat e fiz projeto e hospedei o Backend no Heroku, Frontend no Netlify e Aplicativo no Google Play e todo o código no Github.
