@@ -1,5 +1,2 @@
-// 23280720289893
-//23280666770570
 
-var test = "a8 act zoo";
-console.log(test.split(" "));
+for(let year = 2000; year <= 2020; year++) {console.log(year)};
